@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title> Garota Versátil </title>
+    <link rel="stylesheet" type="text/css" href="_css/stylo.css"/>
+
+</head>
+<body>
+
+   <div id="interface">
+       <figure class="redes_sociais">
+           <img src="_imagens/redes_sociais_peq2.png" usemap="#mapa">
+           <map name="mapa">
+               <area shape="circle" coords="28,24,20" href="https://www.instagram.com/anynharochatavares/" target="_blank">
+               <area shape="circle" coords="75,24,20" href="https://www.facebook.com/AnaPaulaTavaresMK/" target="_blank"/>
+               <area shape="circle" coords="123,24,20" href="https://www.youtube.com/channel/UCiIgKtYIqu20kQxHb3a8tZg" target="_blank">
+               <area shape="circle" coords="173,24,20" href="https://mobile.twitter.com/AnaPaul11947744" target="_blank">
+           </map>
+       </figure>
+
+    <header id="cabecalho">
+        <hgroup>
+            <h1 id="title"><a href="http://vaigarotaversatilcriativa.blogspot.com.br/" target="_blank">Vai Garota Versátil</a></h1>
+            <h2>Bem vindo ao magnífico mundo das makes</h2>
+            <p>Aqui você irá encontrar dicas de maquiagem, tratamento capilar, vão poder tirar dúvidas e muito mais.</p>
+        </hgroup>
+
+        <nav id="menu">
+            <ul>
+                <li><a href="Site.html">Home</a></li>
+                <li><a href="dicas.html">Dicas</a></li>
+                <li><a href="contato.html">Contato</a></li>
+                <li><a href="sobre.html">Sobre</a> </li>
+            </ul>
+        </nav>
+    </header>
+
+
+   <footer id="rodape">
+       <p>Copyright &copy; 2016 - by Gleidson Souza <br/>
+           <a href="http://facebook.com/GleidsonSky" target="_blank"><img src="_imagens/icone_facebook.png"></a> | <a href="https://twitter.com/SkyUpercut" target="_blank"><img src="_imagens/icone_twitter.png"></a></p>
+   </footer>
+</div>
+</body>
+</html>
